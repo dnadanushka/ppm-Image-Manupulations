@@ -1,3 +1,10 @@
+/**
+ * @file    transform.h
+ * @Author  Danushka Ariyarathna
+ * @brief   Function and struct prototypes of whole program
+ *
+ * @date    18 March 2020
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
